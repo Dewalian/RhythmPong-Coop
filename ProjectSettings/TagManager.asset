@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lose Trigger
+  - Ball
+  - Keynote
+  - Spawner
+  - Note
+  - Board
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Note
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 3321332621
+    locked: 0
+  - name: 2
+    uniqueID: 4132797879
+    locked: 0
+  - name: 3
+    uniqueID: 314481797
+    locked: 0
+  - name: 4
+    uniqueID: 3343792059
+    locked: 0
+  - name: 5
+    uniqueID: 2929694257
+    locked: 0

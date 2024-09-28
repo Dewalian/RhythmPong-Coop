@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c34c5a7777810a4f86d8fa689f60b23, type: 3}
+  m_Name: Matbow & Wizard - Say My Name
+  m_EditorClassIdentifier: 
+  songName: Matbow & Wizard - Say My Name
+  song: {fileID: 8300000, guid: 662ad9423ec5f1642a3ede78166a8542, type: 3}
+  bpm: 130
+  duration: 214
