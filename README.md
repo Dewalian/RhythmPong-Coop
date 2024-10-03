@@ -33,7 +33,7 @@ Each song has it's own note speed, where the bpm is used to deterimine the spawn
 
 ![image](https://github.com/user-attachments/assets/ac7a8168-f72c-4f77-a83f-1caec69af61f)
 
-
+<a href="https://jeje8.itch.io/rhythmpong-coop">Play it here</a>
 
 
 
