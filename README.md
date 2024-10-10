@@ -30,7 +30,8 @@ Try to get the highest score on each song!
 <h3>Music BPM</h3>
 Each song has it's own note speed, where the bpm is used to deterimine the spawn rate and the speed of notes.
 
-![image](https://github.com/user-attachments/assets/ac7a8168-f72c-4f77-a83f-1caec69af61f)
+![1010](https://github.com/user-attachments/assets/26932856-1663-4443-b5af-fb7b10dfda71)
+Comparison between 2 songs with different BPM.
 
 <a href="https://jeje8.itch.io/rhythmpong-coop">Play it here</a>
 
