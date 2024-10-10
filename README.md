@@ -15,7 +15,7 @@ get off from the screen. The players win if they survive until the end of the so
 
 <h3>Note Point</h3>
 
-![RhythmPongGifNote](https://github.com/user-attachments/assets/4ee3653f-b1d5-48eb-9da2-806bcfd7c0a9)
+![RhythmPong CoopNote](https://github.com/user-attachments/assets/d6dd252a-83ca-4f3c-887c-341ca67d8eff)
 
 The players have to hit the note in time. The more in time it is, the more score the players got and the more the ball slows down. There's also an indicator showing how in time the note hit is;
 Bad, Mid, Good, and Perfect.
@@ -30,7 +30,8 @@ Try to get the highest score on each song!
 <h3>Music BPM</h3>
 Each song has it's own note speed, where the bpm is used to deterimine the spawn rate and the speed of notes.
 
-![1010](https://github.com/user-attachments/assets/26932856-1663-4443-b5af-fb7b10dfda71)
+![RhythmPong CoopBPM](https://github.com/user-attachments/assets/7606ea2e-9ff7-4431-b035-1b19c7fb4cd6)
+
 Comparison between 2 songs with different BPM.
 
 <a href="https://jeje8.itch.io/rhythmpong-coop">Play it here</a>
