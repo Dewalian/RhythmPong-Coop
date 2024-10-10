@@ -15,8 +15,7 @@ get off from the screen. The players win if they survive until the end of the so
 
 <h3>Note Point</h3>
 
-![image](https://github.com/user-attachments/assets/bda1e4c8-3ae6-4b07-b4d0-c7743394364d)
-![image](https://github.com/user-attachments/assets/e43df4b0-d1e0-4fcf-95b3-5f549522f7a0)
+![RhythmPongGifNote](https://github.com/user-attachments/assets/4ee3653f-b1d5-48eb-9da2-806bcfd7c0a9)
 
 The players have to hit the note in time. The more in time it is, the more score the players got and the more the ball slows down. There's also an indicator showing how in time the note hit is;
 Bad, Mid, Good, and Perfect.
