@@ -47,7 +47,7 @@ Comparison between 2 songs with different BPM.
 
 ## Assets
 
-All of the art assets were created by me. The only assets that I downloaded is the music and audio, which can be downloaded from here:
+All of the art assets were created by me. The only assets that I used from other people is the music and audio, which can be downloaded from here:
 - Free royalty music playlist: https://www.youtube.com/playlist?list=PLHEabrqpFr0PlkzCTrgZ6ChhrtKSAgqyj
 - Free sfx: https://freesound.org
 
