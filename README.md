@@ -10,6 +10,7 @@ Survive.
 RhythmPong coop is a cooperative game where 2 players play Pong and try to juggle the ball on the screen, while at the same time play a rhythm game where they have to play the note in time.
 Each time passes, the ball increases it's speed. Decrease it's speed by hitting the note, the more it's in time the more the ball speed decreases. The players have 3 lives. They lose their life if the ball
 get off from the screen. The players win if they survive until the end of the song.
+### <a href="https://jeje8.itch.io/rhythmpong-coop">Play it here</a>
 
 ## Mechanics
 
@@ -34,7 +35,7 @@ Each song has it's own note speed, where the bpm is used to deterimine the spawn
 
 Comparison between 2 songs with different BPM.
 
-## Scripts and Features
+## Scripts
 
 | Script | Description |
 | --- | --- |
@@ -44,7 +45,11 @@ Comparison between 2 songs with different BPM.
 | `PongBoard.cs` | Handles the control movement of both PongBoards. |
 | `etc` | |
 
-<a href="https://jeje8.itch.io/rhythmpong-coop">Play it here</a>
+## Assets
+
+All of the art assets were created by me. The only assets that I downloaded is the music and audio, which can be downloaded from here:
+- Free royalty music playlist: https://www.youtube.com/playlist?list=PLHEabrqpFr0PlkzCTrgZ6ChhrtKSAgqyj
+- Free sfx: https://freesound.org
 
 
 
